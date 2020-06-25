@@ -7,7 +7,7 @@
 /.idea.BuildingEscape.iml
 /contentModel.xml
 /projectSettingsUpdater.xml
-.idea
+.idea/
 
 # Editor-based HTTP Client requests
 /httpRequests/
